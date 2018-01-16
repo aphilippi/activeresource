@@ -261,3 +261,4 @@ Bug reports and feature requests can be filed with the rest for the Ruby on Rail
 * https://github.com/rails/activeresource/issues
 
 You can find more usage information in the ActiveResource::Base documentation.
+
